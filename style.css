@@ -1,0 +1,37 @@
+html, body {
+  font-family:Helvectica,Arial, sans-serif;
+  
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.best {
+  font-family:Helvectica,Arial, sans-serif;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+.stats {
+ font-family:Helvectica,Arial, sans-serif;
+ 
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.all {
+  font-family:Helvectica,Arial, sans-serif;
+  filter: blur(2px);
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
